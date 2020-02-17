@@ -43,4 +43,5 @@ tsc greeter.ts
 after the compile, you will find **greeter.js** file which has pure JavaScript code.
 
 In this sample, greeter function has been called with a single string parameter. If you change the value of **user** variable to a number and re-compile it, you'll get an error like this:
+
 `greeter.ts - error TS2345: Argument of type 'number' is not assignable to parameter of type 'string'`
