@@ -26,7 +26,7 @@ The command-line TypeScript compiler can be installed as a Node.js package.
 To quickly test that the setup works, you can create a test TypeScript file and then run tsc in the command line and see if a JavaScript file is generated beside the TypeScript file.
 
 ### Quick Example
-As mentioned above, create **greeter.ts ** file then start to write our greeter function.
+As mentioned above, create **greeter.ts**  file then start to write our greeter function.
 ```
 // greeter.ts file
 function greeter(person: string) {
