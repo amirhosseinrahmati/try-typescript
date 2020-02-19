@@ -2,6 +2,7 @@
 #### Try At Least Once (JavaScript libraries and frameworks) > JavaScript Flavors > TypeScript
 
 Official website: [https://www.typescriptlang.org](https://www.typescriptlang.org/ "https://www.typescriptlang.org")
+
 Github repository: [https://github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript "https://github.com/Microsoft/TypeScript")
 
 ------------
